@@ -1,0 +1,3 @@
+Este guia reune dicas de ferramentas para software livre.
+
+Incialmente você deve
