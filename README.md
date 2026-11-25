@@ -7,3 +7,5 @@ Este repositorio reune dicas simples de ferramentas livres.
 1. Abra uma Issue descrevendo o que deseja corrigir ou melhorar.
 2. Faca um Fork deste repositorio.
 3. Envie sua alteracao por meio de um Pull Request.
+
+   Prof. Marcos Konzen
