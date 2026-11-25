@@ -1,3 +1,5 @@
 Este guia reune dicas de ferramentas para software livre.
 
-Incialmente você deve
+Incialmente você deve baixar os arquivos fonte e depois instalar no seu computador.
+
+Att. Prof. Marcos
