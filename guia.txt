@@ -1,3 +1,6 @@
 Este guia reune dicas de ferramentas para software livre.
 
-Incialmente você deve
+Incialmente você deve ler com atenção o README.
+Após você deve fazer um clone para o seu computador e aproveitar as instruções do guia.
+
+Boa sorte!
